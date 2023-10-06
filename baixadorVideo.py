@@ -33,7 +33,7 @@ def baixar_video(url, pasta_destino, escolha_qualidade):
 url = input("Digite a URL do vídeo do YouTube: ")
 
 # Define o caminho da pasta de destino
-pasta_destino = '/home/pedro/games/Baixador'
+pasta_destino = '/home/pedro/games/BaixadorVideo/videos'
 
 # Obtém a escolha de qualidade do usuário
 escolha_qualidade = 0
